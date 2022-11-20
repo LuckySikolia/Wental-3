@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Wental3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calender">Calender</string>
+    <string name="journal">Journal</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+    <string name="journal_fragment">Journal fragment</string>
+    <string name="settings_fragment">settings fragment</string>
+    <string name="statistics_fragment">statistics fragment</string>
 </resources>

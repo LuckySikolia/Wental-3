@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/calender"
+        android:title="@string/calender"
+        android:icon="@drawable/ic_calender_foreground"/>
+
+    <item
+        android:id="@+id/journal"
+        android:title="@string/journal"
+        android:icon="@drawable/ic_journal_foreground"/>
+
+    <item
+        android:id="@+id/stats"
+        android:title="@string/stats"
+        android:icon="@drawable/ic_stats_foreground"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_foreground"/>
+</menu>
