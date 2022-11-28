@@ -9,4 +9,5 @@
     <string name="journal_fragment">Journal fragment</string>
     <string name="settings_fragment">settings fragment</string>
     <string name="statistics_fragment">statistics fragment</string>
+    <string name="EmojiHeading">What\'s your mood today?</string>
 </resources>

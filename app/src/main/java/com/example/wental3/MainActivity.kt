@@ -38,6 +38,14 @@ class MainActivity : AppCompatActivity() {
             }
             true
         }
+
+        //implementing on click events for the floating Action button
+            binding.fab.setOnClickListener {
+               val intent = Intent(this, Emoji::class.java)
+                startActivity(intent)
+            }
+
+
     }
 
         private fun replaceFragment(fragment: Fragment){
@@ -46,6 +54,7 @@ class MainActivity : AppCompatActivity() {
             fragmentTransaction.replace(R.id.calViewFragment, fragment)
             fragmentTransaction.commit()
         }
+
 
     }
 
